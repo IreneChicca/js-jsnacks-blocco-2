@@ -39,3 +39,9 @@
 # JSNACK 4 - BONUS
 
 #### Crea due array che hanno un numero di elementi diversi.  Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro.
+
+
+- Creo gli array di numero elementi diversi
+- Imposto una condizione secondo la quale *SE* array1 ha una lenght < ad array2 allora effettuo il push di un elemento
+    - altrimenti no
+
